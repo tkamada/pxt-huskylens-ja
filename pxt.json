@@ -4,11 +4,13 @@
     "description": "",
     "dependencies": {
         "core": "*",
-        "radio": "*"
+        "radio": "*",
+        "microphone": "*"
     },
     "files": [
         "README.md",
         "huskylens.ts",
+        "_locales/ja/Huskylens-strings.json",
         "_locales/zh-cn/Huskylens-strings.json",
         "_locales/zh-tw/Huskylens-strings.json",
         "enums.d.ts"
